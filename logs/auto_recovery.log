@@ -1,0 +1,8 @@
+[2025-10-27T16:49:08.694377Z] [INFO] Restart issued
+[2025-10-27T16:49:28.694377Z] [INFO] Restart issued
+[2025-10-27T16:49:48.694377Z] [INFO] Notification emitted (simulated)
+[2025-10-27T16:50:08.694377Z] [INFO] Controller detected failure
+[2025-10-27T16:50:28.694377Z] [WARN] Notification emitted (simulated)
+[2025-10-27T16:50:48.694377Z] [INFO] Restart issued
+[2025-10-27T16:51:08.694377Z] [WARN] Restart issued
+[2025-10-27T16:51:28.694377Z] [ERROR] Controller detected failure

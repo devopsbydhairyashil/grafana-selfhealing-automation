@@ -1,0 +1,8 @@
+[2025-10-27T16:49:08.694052Z] [WARN] Restarting container
+[2025-10-27T16:49:28.694052Z] [ERROR] Container restarted
+[2025-10-27T16:49:48.694052Z] [ERROR] Container restarted
+[2025-10-27T16:50:08.694052Z] [WARN] Probe failed for pod
+[2025-10-27T16:50:28.694052Z] [INFO] Probe failed for pod
+[2025-10-27T16:50:48.694052Z] [INFO] Container restarted
+[2025-10-27T16:51:08.694052Z] [WARN] Container restarted
+[2025-10-27T16:51:28.694052Z] [WARN] Container restarted
